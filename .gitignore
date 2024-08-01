@@ -1,3 +1,5 @@
 __pycache__/
 
 .ipynb_checkpoints/
+
+.matrix_algebra_package_files/
